@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comandos linux em uma página
+title: Verificar portas abertas no linux e fechá-las
 date:   2020-06-17 22:19:00 +0530
 categories: servidor linux
 ---
