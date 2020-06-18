@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magazine Linux
-date:   2020-06-17 22:19:00 +0530
+date:   2020-06-18 20:41:00 +0530
 categories: Magazine
 ---
 
