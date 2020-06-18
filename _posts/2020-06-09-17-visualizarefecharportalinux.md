@@ -58,3 +58,4 @@ Eu tenho um curso Firewall com iptables, do básico ao avançado que faz parte d
 
 Commits
 - 17/06/2020 - 22:41 - Upload da publicação.
+- 17/06/2020 - 22:43 - Reeditei o título que estava com o mesm nome da publicação anterior. 
