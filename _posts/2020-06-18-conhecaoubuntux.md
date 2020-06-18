@@ -81,3 +81,4 @@ Blog do Raul
 
 Commits
 - 18/06/2020 - 09:41 - Upload da publicação.
+- 18/06/29 - 10:17 - Alterei "recebo feedback das pessoas" --> "recebo feedback"
