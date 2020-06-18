@@ -75,7 +75,7 @@ Blog do Raul
 <https://rauldipeas.github.io/>
 
 ## Vídeo no youtube sobre o Ubuntux
-[! [ubuntux] (http://img.youtube.com/vi/1nwp9AXc1ic/0.jpg)] (http://www.youtube.com/watch?v=1nwp9AXc1ic "ubuntux")
+<http://www.youtube.com/watch?v=1nwp9AXc1ic>
 
 ## Veja também:
 - [Meus cursos](https://profjulianoramos.github.io/cursos/)
