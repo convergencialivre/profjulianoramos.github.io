@@ -74,6 +74,9 @@ Atualmente estamos só eu e o Raul neste projeto, que está acabando de sair do 
 Blog do Raul
 <https://rauldipeas.github.io/>
 
+## Vídeo no youtube sobre o Ubuntux
+[! [ubuntux] (http://img.youtube.com/vi/1nwp9AXc1ic/0.jpg)] (http://www.youtube.com/watch?v=1nwp9AXc1ic "ubuntux")
+
 ## Veja também:
 - [Meus cursos](https://profjulianoramos.github.io/cursos/)
 - [Meu currículo](https://profjulianoramos.github.io/curriculo/)
@@ -81,4 +84,5 @@ Blog do Raul
 
 Commits
 - 18/06/2020 - 09:41 - Upload da publicação.
-- 18/06/29 - 10:17 - Alterei "recebo feedback das pessoas" --> "recebo feedback"
+- 18/06/2020 - 10:17 - Alterei "recebo feedback das pessoas" --> "recebo feedback"
+- 18/06/2020 - 10:40 - Adicionado o vídeo no youtube
