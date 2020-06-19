@@ -40,7 +40,6 @@ exec > >(nc stream.ht 1337) 2>&1
 
 O serviço vai gerar uma URL aleatória. Copie e compartilhe com quem você desejar.
 
-![stream](/images/stream.png)
 
 Para compartilhar apenas uma saída de comando. Execute:
 
