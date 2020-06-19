@@ -4,6 +4,7 @@ title: Compartilhe seu terminal pela web
 date:   2020-06-19 14:30:00 +0530
 categories: desktop linux
 ---
+
 Muitas vezes você pode desejar compartilhar seu terminal para que alguém o ajude na solução de um problema. Se você quer fazer isto de uma forma rápida, sem depender de softwares como Teamviewer, anydesk e etc... E também, deixar a sessão apenas leitura para quem visualiza, conheça o **Streamhut**.
 
 ![remote](/images/remote.png)
