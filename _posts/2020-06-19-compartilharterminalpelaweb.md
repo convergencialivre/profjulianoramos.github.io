@@ -29,13 +29,13 @@ Os casos mais comuns para você usar o Streamhut:
 
 *O Streamhut ainda está em estágio alfa, por isto, não esta pronto para ambiente de produção.*
 
-## Compartilhar o terminal
+### Compartilhar o terminal
 Fique tranquilo que ao compartilhar, as pessoas vão apenas assistir sua sessão, não podendo efeturar nenhum comando remoto, ou seja, um acesso apenas leitura.
 
 No terminal digite:
 
 ```bash
-exec>> (nc stream.ht 1337) 2> & 1
+exec > >(nc stream.ht 1337) 2>&1
 ```
 
 O serviço vai gerar uma URL aleatória. Copie e compartilhe com quem você desejar.
@@ -56,3 +56,13 @@ Monitorar um processo ou programa:
 
 Neste exemplo, vou monitorar o tempo da máquina. O atraso de 5 segundos é para dar tempo de gerar a URL. 
 
+
+## Veja também:
+- [Meus cursos](https://profjulianoramos.github.io/cursos/)
+- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
+- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
+
+
+Commits
+- 19/06/2020 - 14:48 - Upload da publicação.
+- 19/06/2020 - 14:50 - Arrumei o espaço a mais no comando do nc. 
