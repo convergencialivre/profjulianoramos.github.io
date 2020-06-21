@@ -6,11 +6,15 @@ permalink: /about/
 
 
 
-### More Information
+### Mais informações
 
-A place to include any other types of information that you'd like to include about yourself.
+Olá, sou o Prof. Juliano Ramos. Um pouquinho de minhas qualificações:
 
-### Contact me
+Certificado Linux Professional Institute desde 2002 - Nível II, Certificado SUSE CLA, Red Hat RHCSA, Certificado CISCO CCNA e ITIL, autor de dezenas de e-books sobre a Administraçãode Sistemas Linux. Usuário linux desde 2000.
 
-[email@domain.com](mailto:email@domain.com)
+Consultor desde 2004, quando obtive minha primeira certificação pela Conectiva Linux.
 
+### Contato
+
+[profjulianoramos@gmial.com](mailto:profjulianoramos@gmail.com)
+Whats/Telegram: +5511987168987
