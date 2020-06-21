@@ -183,7 +183,7 @@ Diretório | Definição
 /home | Diretório do usuário
 /lib | Bibliotecas essenciais e módulos do kernel
 /media | Ponto de montagem de mídia removível
-/mnnt | Ponto de montagem de sistema de arquivo temporário
+/mnt | Ponto de montagem de sistema de arquivo temporário
 /opt | Aplicativos adicionais
 /sbin | Binários do sistema
 /srv | dados de serviços providos pelo sistema
@@ -280,5 +280,5 @@ Commits
 - 16/06/2020 - Mudança do título do artigo (comandos lpi --> Comandos Linux em uma página)
 - 16/06/2020 - 20:51 - Adicionado pacotes RPM
 - 16/06/2020 - 21:12 - Alterado erro de escrita no atalho CTRL+Z (Rogério Chagas)
-  
+- 21/06/2020 - 11:58 - Linha 186 FHS mnt estava escrito mnnt, observação de (Inseto social)
   
