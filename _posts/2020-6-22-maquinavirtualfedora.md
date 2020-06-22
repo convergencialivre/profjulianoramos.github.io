@@ -123,3 +123,4 @@ Selecione um tamanho de disco rigido. Só resta finalizar a configuração. Voc�
 
 Commits
 - 22/06/2020 - 08:11 - Upload da publicação.
+
